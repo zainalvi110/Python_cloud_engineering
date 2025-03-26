@@ -1,0 +1,9 @@
+shortcut of jupyter notebook
+
+Esc+M(convert selected cell into markdown)
+Esc+A(create a cell above)
+Esc+B(create a cell below)
+Esc+DD(to delete ny selected cell)
+Esc+Y(convert all cell iinto code)
+Shift+Enter(execute the cell)
+Ctrl+Enter(execute but stay in cell)
